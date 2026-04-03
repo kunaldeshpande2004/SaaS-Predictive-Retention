@@ -159,12 +159,4 @@ Possible improvements to this project include:
 - Integrating real-time prediction APIs
 - Building a Power BI retention dashboard
 
----
 
-Author
-
-Kunal Deshpande
-B.Tech Computer Science – Medi-Caps University
-
-GitHub:
-https://github.com/kunaldeshpande2004
